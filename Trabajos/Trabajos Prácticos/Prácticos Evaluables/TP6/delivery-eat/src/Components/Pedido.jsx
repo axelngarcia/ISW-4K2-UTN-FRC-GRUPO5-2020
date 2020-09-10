@@ -9,7 +9,7 @@ import { invalidFechaActual } from "./utils";
 import listo from "./Imagenes/listo2.png";
 import { Grid, Button } from "@material-ui/core";
 
-export default function Pedido({}) {
+export default function Pedido({ setTipoPedido }) {
   const [pasos, setPasos] = useState(1);
   const [direccion, setDireccion] = useState({
     calle: "",
@@ -168,6 +168,7 @@ export default function Pedido({}) {
   };
 
   const nuevoPedido = () => {
+    setTipoPedido(null);
     setPasos(1);
     setProductos([]);
     setDireccion({

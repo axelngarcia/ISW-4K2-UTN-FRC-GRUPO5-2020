@@ -85,7 +85,7 @@ export default function Principal({}) {
                   </Grid>
                 </Grid>
               ) : (
-                <Pedido />
+                <Pedido setTipoPedido={setTipoPedido} />
               )}
             </CardContent>
           </Card>
