@@ -34,8 +34,8 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | Guías de trabajos | GUIA - \<nombre-guía> - 2020.pdf | /Trabajos/Guías de trabajos
 | Prácticos Evaluables | TP\<nro-tp> - \<nombre-tpE>.pdf | /Trabajos/Trabajos Prácticos/Prácticos Evaluables
 | Prácticos no Evaluables | TP\<nro-tp> - \<nombre-tpNE>.pdf | /Trabajos/Trabajos Prácticos/Prácticos No Evaluables
-| Código javascript estándar | <component>.js | /Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/src
-| Código html combinado con React | <component>.jsx | /Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/src/Components
+| Código javascript estándar | \<component>.js | /Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/src
+| Código html combinado con React | \<component>.jsx | /Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/src/Components
 | Dependencias del proyecto | package.json | Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/
 | Ícono de la pestaña del programa | favicon.ico | Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/public
 | Archivo índice de la implementación "Lo que sea" | index.html | Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/public
@@ -55,7 +55,7 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | \<nombre-biblio\> | nombre del material bibliograficos cada palabra con mayúsculas.
 | \<nombre-tpE\> | nombre de los trabajos prácticos evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<nombre-tpNE\> | nombre de los trabajos prácticos no evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
-| <component> | nombre del componente de código, debe describir la funcionalidad de ese componente.
+| \<component\> | nombre del componente de código, debe describir la funcionalidad de ese componente.
 | \<extensión\> | nombre de la extensión de un archivo identificado como item de configuración.
 
 
