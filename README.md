@@ -32,7 +32,8 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | Bibliografia de cátedra |\<nombre-biblio> - Bibliografía de la catedra.pdf | /Material de cátedra/Bibliografia
 | Material de clase | Material \<nro> - \<nombre-mat>.pdf | /Material de cátedra/Material de clases
 | Guías de trabajos | GUIA - \<nombre-guía> - 2020.pdf | /Trabajos/Guías de trabajos
-| Prácticos Evaluables | TP\<nro-tp> - \<nombre-tpE>.pdf | /Trabajos/Trabajos Prácticos/Prácticos Evaluables
+| Trabajos Conceptuales | <nombre-conceptual>.<extensión>| /Trabajos/Trabajos Conceptuales
+| Prácticos Evaluables | TP\<nro-tp> - \<nombre-tpE>.<extensión> | /Trabajos/Trabajos Prácticos/Prácticos Evaluables
 | Prácticos no Evaluables | TP\<nro-tp> - \<nombre-tpNE>.pdf | /Trabajos/Trabajos Prácticos/Prácticos No Evaluables
 | Código javascript estándar | \<component>.js | /Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/src
 | Código html combinado con React | \<component>.jsx | /Trabajos/Trabajos Prácticos/Prácticos Evaluables/TP6/delivery-eat/src/Components
@@ -51,6 +52,7 @@ ISW-4K2-UTN-FRC-GRUPO5-2020
 | \<nombre-doc\> | nombre del documento  de la catedra comenzando la primera letra con mayúscula y seguida en letras minúsculas.
 | \<nombre-fil\> | nombre de la filmina  de la catedra comenzando la primera letra con mayúscula y seguida en letras minúsculas.
 | \<nombre-mat\> | nombre del material de clase comenzando cada palabra con mayúsculas.
+| \<nombre-conceptual\> | nombre del trabajo conceptual comenzando cada palabra con mayúsculas.
 | \<nombre-guía\> | nombre de la guía de trabajos en letras minúsculas, comenzando cada palabra con mayúscula.
 | \<nombre-biblio\> | nombre del material bibliograficos cada palabra con mayúsculas.
 | \<nombre-tpE\> | nombre de los trabajos prácticos evaluables en letras minúsculas, comenzando cada palabra con mayúscula.
